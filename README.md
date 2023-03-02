@@ -2,7 +2,7 @@
 # Olá meu nome é Dalton Felipe
 
 Sou desenvolvedor backend e atualmente trabalho na teceo como dev pleno. 
-Atuo em diversas áreas de desenvolvimento na empresa, atualmente focado no desenvolvimento de integrações com api de terceiros como Linx e Totvs.
+Atualmente sou focado no desenvolvimento de integrações dos nossos serviços com api de terceiros como Linx e Totvs.
 
 ## Minha stack
 ### Backend
@@ -14,7 +14,7 @@ Atuo em diversas áreas de desenvolvimento na empresa, atualmente focado no dese
 - Docker
 
 ### Frontend
-- Html, CSS e Javscript
+- Html, CSS e Javascript
 - React, Svelte
 - Nextjs
 
